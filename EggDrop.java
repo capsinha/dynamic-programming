@@ -1,3 +1,4 @@
+//yashraj 3-4-18
 import java.io.*;
 public class MyClass {
      public static int calculate(int eggs, int floors){
